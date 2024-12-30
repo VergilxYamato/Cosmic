@@ -183,7 +183,7 @@ def hard_quiz():
     questions = [
         ("Who is the father of physics?", "Wedant Pokhrel"),
         ("Who is the favourite actor of Wedant Sir?", "Johnny Sins"),
-        ("Wedant Sir's worst nightmare?", "Cold ass"),
+        ("Wedant Sir's worst nightmare?", "Cold in ass"),
         ("What is the definition of Heat?", "Heat is the sum of kinetic energy😆😆😆"),
         ("Who is the most handsome man in the world?", "Aditya Chapagai! You think it's you"),
         ("What is the largest country in North America by land area?", "Canada"),
